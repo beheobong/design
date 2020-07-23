@@ -10,3 +10,6 @@
 - https://iradesign.io/gallery/illustrations
 - https://www.humaaans.com/?ref=evernote.design
 - https://icons8.com/ouch
+
+### Kho images:
+- https://www.designbold.com/academy/vi/10-trang-web-hinh-anh-mien-phi-chat-luong/

@@ -38,5 +38,3 @@ Các bước thiết kế 1 app-web: search google: app design, web design
 
 
 
-![image](https://user-images.githubusercontent.com/53457593/147941096-3fce12fb-5d20-46bf-9671-78ed4b0b16fa.png)
-
